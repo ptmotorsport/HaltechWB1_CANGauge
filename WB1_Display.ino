@@ -1,3 +1,6 @@
+// PT Motorsport AU - Haltech WB1 to Arduino display project - (c) 2024 PT Motorsport AU pty ltd
+// Released under the GPLv3 license
+
 #include <mcp_can.h>
 #include <SPI.h>
 #include <U8g2lib.h>
